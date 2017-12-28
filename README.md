@@ -1,4 +1,4 @@
-# ScalaExample
+# Scala-Example
 Scala编写示例，用于新手属性scala基本语法
 
   1）actor：初始Actor，Scala Actor并发编程
